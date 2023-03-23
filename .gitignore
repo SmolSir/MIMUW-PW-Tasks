@@ -1,9 +1,6 @@
 .idea
 out
 *.iml
-*:Zone.Identifier
-bs429594*
-moodle_validation
 *.xml
 target
 .clang*
